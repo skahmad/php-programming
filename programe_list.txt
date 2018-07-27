@@ -1,0 +1,2 @@
+1. print Ascii code			: asciivalue.php
+2. convert fahrendiet to celsius	: celsius_to_fahrenhiet.php
