@@ -1,2 +1,5 @@
 1. print Ascii code			: asciivalue.php
 2. convert fahrendiet to celsius	: celsius_to_fahrenhiet.php
+3. string/strpos.php			: find string position in string
+4. string/strstr.php			: find substring in a string
+5. string/substr.php			: extracting sub string form string
