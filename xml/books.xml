@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book>
+		<title>C++</title>
+		<pages>230</pages>
+		<price>380</price>
+	</book>
+	<book>
+		<title>OPP in Java</title>
+		<pages>430</pages>
+		<price>560</price>
+	</book>
+</books>
